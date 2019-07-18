@@ -5,7 +5,7 @@ Useful for 16 bit DOS apps.
 
 1. Better apply trace filter patch to dosbox debugger
 2. Run dosbox debuger
-3. execute "heavylog" and log 100000>, wait, play all possible code branches
+3. execute "heavylog" and log 100000, wait, play all possible code branches
 4. stop dosbox
 5. execute attached scripts (on LOGCPU.txt)
 6. fix IDA base inside scripts
